@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=UnK1nD
+Description=Ubuntu theme based on bendiksens.net
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/unk1nd
+ScriptFile=/lib/plymouth/themes/unk1nd/unk1nd.script
+
+
